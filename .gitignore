@@ -1,0 +1,11 @@
+# Ignore virtual environment directories
+bin/
+include/
+lib/
+lib64/
+etc/
+
+# Optionally, ignore other files like IDE settings or OS-specific files
+*.pyc
+*.pyo
+.DS_Store
